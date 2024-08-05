@@ -7,4 +7,4 @@
 
 --- 
 
-### API Gateway
+### API Gateway.
